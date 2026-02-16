@@ -1,0 +1,13 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Shilpa Nair - Portfolio</title>
+</head>
+<body>
+    <h1>Welcome to My Portfolio</h1>
+    <p>Click below to view my complete e-portfolio:</p>
+    <a href="https://www.mygreatlearning.com/eportfolio/shilpa-harikumar" target="_blank">
+        View My Portfolio
+    </a>
+</body>
+</html>
